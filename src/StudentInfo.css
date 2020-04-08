@@ -1,0 +1,16 @@
+div{
+    text-align:center;
+    margin-outside: 300px;
+}
+
+body {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+}
+
+.form-control{
+    margin-left: 30px;
+}

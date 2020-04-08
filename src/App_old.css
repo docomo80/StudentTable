@@ -36,24 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.form-row {
-  width: 100%;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-table a {
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-a {
-  text-decoration: none;
-}
-
-.active-page {
-  text-decoration: underline;
-}
-
