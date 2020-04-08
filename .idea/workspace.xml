@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5e6da9-590f-4936-be72-89ceb04c98bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1ZrtvAfyEnI5NAmOqV8ctd3j441" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="3000" isV8Legacy="true">
+      <option name="v8Legacy" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="ReactNative" factoryName="React Native" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <react-native value="" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <build-and-launch value="false" />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <debug-port value="3000" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <react-native value="" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <build-and-launch value="false" />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <debug-port value="3000" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5e6da9-590f-4936-be72-89ceb04c98bc" name="Default Changelist" comment="" />
+      <created>1585609269871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585609269871</updated>
+      <workItem from="1585609271490" duration="3904000" />
+      <workItem from="1585613369435" duration="35496000" />
+      <workItem from="1585727024024" duration="57589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585634374287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585634374287" />
+    <state width="377" height="466" key="DebuggerActiveHint" timestamp="1585686532580">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="377" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1585686532579" />
+    <state width="1515" height="161" key="GridCell.Tab.0.bottom" timestamp="1586302896780">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586302896780" />
+    <state width="1515" height="161" key="GridCell.Tab.0.center" timestamp="1586302896780">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586302896780" />
+    <state width="1515" height="161" key="GridCell.Tab.0.left" timestamp="1586302896780">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586302896780" />
+    <state width="1515" height="161" key="GridCell.Tab.0.right" timestamp="1586302896780">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586302896780" />
+    <state width="1515" height="161" key="GridCell.Tab.1.bottom" timestamp="1586302897283">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586302897283" />
+    <state width="1515" height="161" key="GridCell.Tab.1.center" timestamp="1586302897283">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586302897283" />
+    <state width="1515" height="161" key="GridCell.Tab.1.left" timestamp="1586302897283">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586302897283" />
+    <state width="1515" height="161" key="GridCell.Tab.1.right" timestamp="1586302897283">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586302897283" />
+    <state width="1515" height="161" key="GridCell.Tab.2.bottom" timestamp="1586302896672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586302896672" />
+    <state width="1515" height="161" key="GridCell.Tab.2.center" timestamp="1586302896672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1586302896672" />
+    <state width="1515" height="161" key="GridCell.Tab.2.left" timestamp="1586302896672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1586302896672" />
+    <state width="1515" height="161" key="GridCell.Tab.2.right" timestamp="1586302896672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="161" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1586302896672" />
+    <state width="1515" height="277" key="GridCell.Tab.3.bottom" timestamp="1585613250658">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585613250658" />
+    <state width="1515" height="277" key="GridCell.Tab.3.center" timestamp="1585613250657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1585613250657" />
+    <state width="1515" height="277" key="GridCell.Tab.3.left" timestamp="1585613250657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1585613250657" />
+    <state width="1515" height="277" key="GridCell.Tab.3.right" timestamp="1585613250657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1585613250657" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585686973760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1585686973760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/ModalDelete.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/StudentsTable.js</url>
+          <line>52</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/StudentsTable.js</url>
+          <line>61</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/StudentsTable.js</url>
+          <line>32</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/ModalDelete.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/components/ModalDelete.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/App.js</url>
+          <line>30</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/App.js</url>
+          <line>33</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/App.js</url>
+          <line>111</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="ReactNative">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
