@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function LabelText(prop) {
   return (
-    <div className="form-row" >
+    <div className="form-row">
       <label htmlFor={prop.name}/>
 	  {prop.label}:
       <input type="text" id={prop.name}

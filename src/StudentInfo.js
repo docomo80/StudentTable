@@ -2,7 +2,6 @@ import React from 'react';
 import LabelText from './LabelText';
 import {withRouter} from 'react-router';
 import axios from 'axios';
-import "./StudentInfo.css"
 
 class StudentInfo extends React.Component {
     constructor(props) {
@@ -19,7 +18,7 @@ class StudentInfo extends React.Component {
     }
 
     clearClicked() {
-        // this.setState({state: null});
+         // this.setState({state: null});
     }
 
 
@@ -50,12 +49,13 @@ class StudentInfo extends React.Component {
 
     render() {
         return (
-            <div className="form-group" >
+            <div className="form-group">
                 <form>
                     <h3>Student Info</h3>
+
                     <LabelText label="First name" name="firstName"
                                onChange={this.changeText}
-                               value={this.state.firstName} />
+                               value={this.state.firstName}/>
                     <LabelText label="Last name" name="lastName"
                                onChange={this.changeText}
                                value={this.state.lastName}/>
@@ -68,7 +68,7 @@ class StudentInfo extends React.Component {
                            onChange={this.handleChange}
                            className="form-control"/>
 
-                    <textarea value={this.state.someText} onChange={this.handleChange} className="form-control"/>
+                    <textarea value={this.state.someText} onChange={this.handleChange}/>
                     <select value={this.state.someOption} onChange={this.handleChange}>
                         <option value="grapefruit">Grapefruit</option>
                         <option value="lime">Lime</option>

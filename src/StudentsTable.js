@@ -3,8 +3,7 @@ import axios from 'axios';
 import ModalDelete from "./components/ModalDelete";
 // import ModalDelete from "./components/ModalDelete";
 // import App from "./App";
-import {withRouter} from "react-router";
-import "./StudentTable.css"
+// import {withRouter} from "react-router";
 
 // import StudentInfo from 'StudentInfo';
 
@@ -17,7 +16,6 @@ function TableHeader() {
             <th>Second Name</th>
             <th>Year</th>
             <th>Delete</th>
-            <th>Edit</th>
         </tr>
         </thead>
     );
@@ -27,17 +25,12 @@ function TableRow(props) {
     return (<tr>
             <td>{props.student.id}</td>
             <td>{props.student.firstName}</td>
-            <td>{props.student.lastName}</td>
-            <td>{props.student.year}</td>
+            <td>{props.student.secondName}</td>
+            <td>{props.student.age}</td>
             <td>
                 <a href="/delete" onClick={() =>
                     props.onDelete(props.student)}
                 >delete</a>
-            </td>
-            <td>
-                <a href="/edit" onClick={() =>
-                    props.edit(props.student)}
-                >edit</a>
             </td>
         </tr>
     )
@@ -53,9 +46,6 @@ class StudentsTable extends React.Component {
         axios.get("http://localhost:4000/students")
             .then((res) =>
                 this.setState({students: res.data}));
-
-        // fetch('/students') .then(response => this.setState({students: response.data}));
-        // console.log(this.state.students);
     }
 
     getRows() {
@@ -74,13 +64,14 @@ class StudentsTable extends React.Component {
                 <h4>There are no registered students</h4>
             ) : (
                 <div>
-                    <h4 align="center">Students</h4>
+                    <h4>Students</h4>
                     <table className="table table-striped">
                         <TableHeader/>
                         <tbody>
                         {this.getRows()}
                         </tbody>
                     </table>
+                    {/*<ModalDelete student={this.state.selectedStudent}/>*/}
                 </div>
             )
         )
