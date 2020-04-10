@@ -66,7 +66,7 @@ app.post('/add', (req, res) => {
         });
     });
     let student = new Student(req.body);
-    student.studentID = lengthOfCollection + 1;
+    student.studentId = lengthOfCollection + 1;
     student.save()
         .then(new_student => {
             res.status(200).json(new_student);
