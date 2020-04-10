@@ -10,6 +10,9 @@ let Student = new Schema({
     },
     year: {
         type: Number
+    },
+    studentId:{
+        type:Number
     }
 
 });
