@@ -4,6 +4,7 @@
     <list default="true" id="1fd86436-b7a7-4b5c-bb19-bc79f3a21d68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Models/Student.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Models/Student.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/.idea/ReactProject.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/.idea/misc.xml" beforeDir="false" />
@@ -1143,6 +1144,7 @@
       <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/StudentInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/StudentInfo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/StudentsTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/StudentsTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ModalDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ModalDelete.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1150,7 +1152,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
@@ -1193,7 +1195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586440676329</updated>
-      <workItem from="1586440694066" duration="5606000" />
+      <workItem from="1586440694066" duration="8325000" />
     </task>
     <servers />
   </component>
@@ -1216,5 +1218,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586474787075" />
+    <state x="100" y="100" width="1336" height="664" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586504429888">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="100" y="100" width="1336" height="664" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1586504429888" />
   </component>
 </project>

@@ -11,10 +11,10 @@ let Student = new Schema({
     year: {
         type: Number
     },
-    studentId:{
-        type:Number
+    studentId: {
+        type: Number
     }
 
 });
 module.exports = mongoose.model('Student',
-Student);
+    Student);

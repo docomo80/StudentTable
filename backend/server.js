@@ -23,20 +23,20 @@ db.once('open', () => {
 
 var lengthOfCollection ;
 
-mongoClient.connect(mongoURL, function(err, db) {
-    if (err) throw err;
-    let dbo = db.db("studentDataTable");
-    dbo.collection("students").find({}).toArray(function(err, result) {
-        lengthOfCollection = result.length;
-        if (err) {
-            throw err;
-        }
-        console.log(result);
-        console.log(lengthOfCollection);
-        students = result;
-        db.close();
-    });
-});
+// mongoClient.connect(mongoURL, function(err, db) {
+//     if (err) throw err;
+//     let dbo = db.db("studentDataTable");
+//     dbo.collection("students").find({}).toArray(function(err, result) {
+//         lengthOfCollection = result.length;
+//         if (err) {
+//             throw err;
+//         }
+//         console.log(result);
+//         console.log(lengthOfCollection);
+//         students = result;
+//         db.close();
+//     });
+// });
 
 
 app.get('/students', (req, res) => {
@@ -61,12 +61,12 @@ app.post('/add', (req, res) => {
             }
             console.log(result);
             console.log(lengthOfCollection);
-            students = result;
+            // students = result;
             db.close();
         });
     });
     let student = new Student(req.body);
-    student.id = lengthOfCollection + 1;
+    student.studentID = lengthOfCollection + 1;
     student.save()
         .then(new_student => {
             res.status(200).json(new_student);
